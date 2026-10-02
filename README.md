@@ -1,5 +1,3 @@
-# HealthyReadmit-AI-Patient-Readmission-Prediction-System
-
 # HealthyReadmit AI — Patient Readmission Prediction
 
 A portfolio-ready machine learning product that predicts 30-day hospital readmission risk and turns model output into an explainable patient prioritization workflow.
